@@ -1,0 +1,16 @@
+{
+  "name": "iframeapp",
+  "version": "1.0.0",
+  "description": "Childapp for parent app. Served via express js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "postMessage",
+    "iframe",
+    "postMessageApp"
+  ],
+  "author": "mek-12",
+  "license": "ISC"
+}

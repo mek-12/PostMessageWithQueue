@@ -1,0 +1,16 @@
+{
+  "name": "parentapp",
+  "version": "1.0.0",
+  "description": "Parent express webapp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "postMessage",
+    "parent",
+    "app"
+  ],
+  "author": "mek-12",
+  "license": "ISC"
+}
